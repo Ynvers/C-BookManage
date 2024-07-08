@@ -5,12 +5,8 @@ typedef struct Livre
 {
     char titre[100];
     char auteur[100];
-    int annee;
+    int annee_publication;
     int id;
 } Livre;
 
-//Déclaration de la fonction pour afficher un livre
-void afficher_livre(Livre livre);
-
-
-#endif 
+#endif
