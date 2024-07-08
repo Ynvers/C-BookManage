@@ -1,0 +1,26 @@
+# Ignorer les fichiers d'objets et exécutables
+*.o
+*.exe
+
+# Ignorer les dossiers de build
+build/
+dist/
+
+# Ignorer les fichiers de configuration d'IDE
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# Ignorer les dossiers spécifiques aux systèmes d'exploitation
+Thumbs.db
