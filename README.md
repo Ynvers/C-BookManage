@@ -16,6 +16,7 @@ Ce projet est un simple gestionnaire de bibliothèques écrit en C. Il permet d'
 
 ## Structure du projet
 C-BOOKMANAGE
+```
 │
 ├── include
 │ ├── Bibliotheque.h
@@ -26,8 +27,8 @@ C-BOOKMANAGE
 │ └── main.c
 │
 ├── README.md
-├── Makefile
-└── LICENSE (à retirer si vous n'avez pas de fichier)
+└── Makefile
+```
 
 - include/ : Contient les fichiers d'en-tête.
 - src/ : Contient les fichiers source.
