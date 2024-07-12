@@ -15,8 +15,8 @@ Ce projet est un simple gestionnaire de bibliothèques écrit en C. Il permet d'
 - Ajouter une nouvelle bibliothèque.
 
 ## Structure du projet
-C-BOOKMANAGE
 ```
+C-BOOKMANAGE
 │
 ├── include
 │ ├── Bibliotheque.h
